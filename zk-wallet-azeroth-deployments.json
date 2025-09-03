@@ -1,0 +1,13 @@
+{
+	"AzerothConfigVersion": 2,
+	"Azeroth": [
+		{
+			"network": { "networkId": 1001, "chainId": 1001 },
+			"address": "0xDdB7dC4Ff74a38c8F26108AEc2469d0A4a0a0e1F"
+		},
+		{
+			"network": { "networkId": 11155111, "chainId": 11155111 },
+			"address": "0x309b802b1aA5DFb84A13Fc47Bf6A3316c2c08Be3"
+		}
+	]
+}
