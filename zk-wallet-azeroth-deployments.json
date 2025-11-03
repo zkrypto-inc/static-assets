@@ -3,7 +3,7 @@
 	"Azeroth": [
 		{
 			"network": { "networkId": 1001, "chainId": 1001 },
-			"address": "0xDdB7dC4Ff74a38c8F26108AEc2469d0A4a0a0e1F"
+			"address": "0x1b43bC6066B8357c91f9C47C7ef6b5283AA285C4"
 		},
 		{
 			"network": { "networkId": 11155111, "chainId": 11155111 },
