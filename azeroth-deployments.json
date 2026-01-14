@@ -1,0 +1,26 @@
+[
+	{
+		"network": {
+			"networkId": 1001,
+			"chainId": 1001
+		},
+		"deployments": [
+			{
+				"address": "0x1b43bC6066B8357c91f9C47C7ef6b5283AA285C4",
+				"buildCode": 1
+			}
+		]
+	},
+	{
+		"network": {
+			"networkId": 11155111,
+			"chainId": 11155111
+		},
+		"deployments": [
+			{
+				"address": "0x309b802b1aA5DFb84A13Fc47Bf6A3316c2c08Be3",
+				"buildCode": 1
+			}
+		]
+	}
+]
